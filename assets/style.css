@@ -1,0 +1,24 @@
+* {    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.background {
+    background:url("../assets/images/background1.jpg");
+    background-attachment: fixed;
+    background-position: left; 
+    background-size: cover;
+}
+#jumbo {
+    background: rgba(255,255,255, .7);
+}
+#add-train {
+    background: rgba(255,255,255, .8);
+}
+
+#schedule{
+    background: rgba(255,255,255, .8);
+    margin: 70px;
+    border-radius: 7px;  
+}
